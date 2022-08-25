@@ -1,5 +1,5 @@
 # App_API
-
+Trabalho da disciplina Desenvolvimento de Sistemas Móveis e Embarcados da Universidade Federal de Santa Catarina (UFSC)
 ### App mobile
 - monitoracao de um alarme de incendio
 - envio de parametros que definem a ativacao do alarme
